@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack
 - 🌱 I’m currently learning git and github
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me m.porghalambor@gmail.com
+- 📫 How to reach me porghalambor.dev@gmail.com
 - 😄 Pronouns: mahbobe
 - ⚡ Fun fact: Transitioning from finance to development 
 
