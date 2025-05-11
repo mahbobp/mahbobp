@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahbobp
 - 👀 I’m interested in fullstack
-- 🌱 I’m currently learning git and github
+- 🌱 I’m currently learning git and github and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me porghalambor.dev@gmail.com
 - 😄 Pronouns: mahbobe
